@@ -80,6 +80,7 @@ nav {
 
 #about-me-copy {
     width: 50%;
+    margin-left: 50px;
 }
 
 #resume {
@@ -92,6 +93,7 @@ nav {
 footer {
     width: 100%;
     text-align: center;
+    margin-top: 40px;
 }
 
 footer h5 {
@@ -111,6 +113,16 @@ footer h5 {
     width: 100%;
     justify-content: space-around;
     align-items: center;
+    margin-top: 75px;
+}
+
+.project-copy h1 {
+    margin: 10px;
+}
+
+.project-copy p {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .project-copy {
